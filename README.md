@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.pinterest.com/pin/609815605833979447/" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Niloy</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
