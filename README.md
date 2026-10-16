@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="./pic.jpg" width="100%" alt="Profile banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Niloy</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
