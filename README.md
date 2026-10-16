@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="pic.jpg<img width="736" height="736" alt="pic" src="https://github.com/user-attachments/assets/5ea3c028-857e-4919-ac9c-02bd2eb8635a" />
-" width="100%" />
-</p><img width="736" height="736" alt="pic" src="https://github.com/user-attachments/assets/75bc1bdf-a045-45b1-b047-1d48e2b267df" />
-
 
 <h1 align="center">Hi 👋, I'm Niloy</h1>
 <h3 align="center">A passionate frontend developer</h3>
