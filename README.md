@@ -1,4 +1,4 @@
-<img width="1198" height="617" alt="pic" src="https://github.com/user-attachments/assets/a50cc1bd-0e53-4d5c-b30a-5d8b9fafed6e" />
+<img width="1198" height="200" alt="pic" src="https://github.com/user-attachments/assets/a50cc1bd-0e53-4d5c-b30a-5d8b9fafed6e" />
 <h1 align="center">Hi 👋, I'm Niloy</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
